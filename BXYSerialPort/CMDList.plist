@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CommandArray</key>
+	<array>
+		<string>GET TRAY SN</string>
+		<string>TRAY SN XXXXXXX</string>
+	</array>
+	<key>CommandDictionary</key>
+	<dict>
+		<key>GET TRAY SN</key>
+		<string>读取Tray SN</string>
+		<key>TRAY SN XXXXXXX</key>
+		<string>写Tray SN</string>
+	</dict>
+</dict>
+</plist>

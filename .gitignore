@@ -1,0 +1,7 @@
+
+## Other
+*.xccheckout
+*.xcuserstate
+.DS_Store
+
+
